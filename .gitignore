@@ -1,6 +1,13 @@
-*.class
-
 # Package Files #
 *.jar
 *.war
 *.ear
+
+# Generated Files #
+*.class
+/bin
+
+# Project Settings Files #
+.project
+.classpath
+
